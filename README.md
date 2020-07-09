@@ -8,10 +8,17 @@
   - Доступность
 * Макет из PS
 * Flex-box
-* Кросс-браузерность
 * Веб-шрифты
-
-**макет от HTMLAcademy*
+* **Кросс-браузерность - новый скилл**
+ 
 
 ----
+
+Previous project: <a href = "https://github.com/disorientationinspace/maxim_plaxa">Maxim Plaxa</a> <br>
+Next project: <a href = "https://github.com/disorientationinspace/device">Device</a>
+
+----
+
+**макет от <a href = "https://htmlacademyru">HTML Academy</a>*
+
 
